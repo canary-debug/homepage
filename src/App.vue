@@ -2,7 +2,7 @@
   <LoginPage
     ref="loginRef"
     brand-name="YourBrand"
-    title="程序员阿甘，欢迎你!"
+    title="Kube-Vue-Admin，欢迎你!"
     subtitle="Please enter your details"
     primary-color="#4f46e5"
     @submit="handleLogin"

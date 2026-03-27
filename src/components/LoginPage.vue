@@ -83,7 +83,7 @@ const props = withDefaults(defineProps<{
   brandName: 'YourBrand',
   title: 'Welcome back!',
   subtitle: 'Please enter your details',
-  emailPlaceholder: '程序员阿甘(接单中)',
+  emailPlaceholder: 'example@mail.com/name',
   primaryColor: '#4f46e5',
   showGoogleLogin: true,
 })
